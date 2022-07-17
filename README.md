@@ -92,7 +92,7 @@ install
 
 ## 🤝 Đóng góp
 
-Các đóng góp, vấn đề và yêu cầu tính năng đều được hoan nghênh!<br />Feel free to check [issues page](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/README.md).
+Các đóng góp, vấn đề và yêu cầu tính năng đều được hoan nghênh!<br />Hãy kiểm tra [issues page](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/issues). Bạn cũng có thể xem qua [contributing guide](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/README.md).
 
 ## Thể hiện sự ủng hộ của bạn
 
