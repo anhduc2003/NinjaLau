@@ -100,7 +100,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [KhanhNguyen9872](https://github.com/KhanhNguyen9872).<br />
-This project is [KhanhNguyen9872](https://github.com/KhanhNguyen9872) licensed.
+Copyright © 2022 [Nsolau](https://github.com/KhanhNguyen9872).<br />
+This project is [Nsolau](https://github.com/KhanhNguyen9872) licensed.
 
 ***
