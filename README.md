@@ -66,7 +66,7 @@ install
  
 6 - Enjoy!
 
-## System Requirements
+## Các bản hỗ trợ Sever NSO LậuLậu
 - Architecture:
 - [x] 32bit ARM
 - [x] 64bit ARM
