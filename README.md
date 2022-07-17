@@ -100,6 +100,6 @@ Hãy cho một ⭐️ nếu dự án này đã giúp bạn!
 
 ## 📝 Giấy phép
 Bản quyền © 2022 [Nsolau](https://github.com/KhanhNguyen9872).<br />
-Dự án này thuộc bởi [Nsolau](https://github.com/KhanhNguyen9872) licensed.
+Dự án này thuộc bởi [Nsolau](https://github.com/KhanhNguyen9872) được cấp phép.
 
 ***
