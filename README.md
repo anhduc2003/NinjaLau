@@ -35,13 +35,13 @@
 
 > Ninja School Server on Termux Android
 
-### 🏠 [Homepage](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
+### 🏠 [Trang chủ](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
 
 ### ✨ [Video & Screenshot](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/DEMO.md)
 
 # Mua Key Server FullNhiemVu-VIP-2022 [MoonSmile]?
  - Hãy vào trang chính thức của Khanhnguyen9872 để mua tại Gthub
-## Install
+## Cài đặt
  - Tutorial: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
  
 1 - Download Termux APK (click on Picture): 
@@ -66,7 +66,7 @@ install
  
 6 - Enjoy!
 
-## Các bản hỗ trợ Sever NSO LậuLậu
+## Các bản hỗ trợ sever NSO lậu
 - Architecture:
 - [x] 32bit ARM
 - [x] 64bit ARM
@@ -82,7 +82,7 @@ install
 - [x] 12 [Some devices are limited to 32 processes]
 - [x] 13 [Some devices are limited to 32 processes]
 
-## Author
+## Người làm
 
 👤 **KhanhNguyen9872**
 
@@ -90,16 +90,15 @@ install
 * Twitter: comingsoon
 * Github: comingsoon
 
-## 🤝 Contributing
+## 🤝 Đóng góp
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/README.md).
 
-## Show your support
+## Thể hiện sự ủng hộ của bạn
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
-
+## 📝 Giấy phép
 Copyright © 2022 [Nsolau](https://github.com/KhanhNguyen9872).<br />
 This project is [Nsolau](https://github.com/KhanhNguyen9872) licensed.
 
