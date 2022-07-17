@@ -42,16 +42,16 @@
 # Mua Key Server FullNhiemVu-VIP-2022 [MoonSmile]?
  - Hãy vào trang chính thức của Khanhnguyen9872 để mua tại Gthub
 ## Cài đặt
- - Tutorial: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
+ - Hướng dẫn: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
  
-1 - Download Termux APK (click on Picture): 
+1 - Tải xuống Termux APK (bấm vào Hình ảnh): 
 <a href="https://khanhnguyen9872.github.io/Ninja_Server_Termux/CONF_FILE/termux_0.118.apk" target="_blank">
     <img alt="Termux" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/termux.png" />
 </a>
 
-2 - Install Termux APK
+2 - Cài đặt APK Termux
 
-3 - Open Termux, copy this line and paste it on Termux
+3 - Mở Termux, sao chép dòng này và dán vào Termux
 
 ```bash
 function install () {
@@ -60,11 +60,11 @@ function install () {
 install
 ```
 
-4 - Wait for install!
+4 - Chờ cài đặt!
  
-5 - Choose Source you want to use! 
+5 - Chọn Nguồn bạn muốn sử dụng!
  
-6 - Enjoy!
+6 - Khởi tạotạo!
 
 ## Các bản hỗ trợ sever NSO lậu
 - Architecture:
@@ -92,14 +92,14 @@ install
 
 ## 🤝 Đóng góp
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/README.md).
+Các đóng góp, vấn đề và yêu cầu tính năng đều được hoan nghênh!<br />Feel free to check [issues page](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/README.md).
 
 ## Thể hiện sự ủng hộ của bạn
 
-Give a ⭐️ if this project helped you!
+Hãy cho một ⭐️ nếu dự án này đã giúp bạn!
 
 ## 📝 Giấy phép
-Copyright © 2022 [Nsolau](https://github.com/KhanhNguyen9872).<br />
-This project is [Nsolau](https://github.com/KhanhNguyen9872) licensed.
+Bản quyền © 2022 [Nsolau](https://github.com/KhanhNguyen9872).<br />
+Dự án này thuộc bởi [Nsolau](https://github.com/KhanhNguyen9872) licensed.
 
 ***
